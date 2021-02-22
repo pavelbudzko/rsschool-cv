@@ -1,1 +1,1 @@
-https://github.com/pavelbudzko/rsschool-cv.git
+https://pavelbudzko.github.io/rsschool-cv/cv
