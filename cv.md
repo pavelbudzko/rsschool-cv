@@ -1,6 +1,6 @@
-# PAVEL BUDZKO
+# PAVEL BUDZKO 
 
-![Это опциональный alt-текст](https://house-animals.ru/sites/default/files/media/user-1/cat-name-2-256.jpg)
+![котик](https://house-animals.ru/sites/default/files/media/user-1/cat-name-2-256.jpg)
 
 ## CONTACTS
 *Email: **pavel.budzko07@gmail.com** Discord: **mauser43***
