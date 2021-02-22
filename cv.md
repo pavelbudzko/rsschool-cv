@@ -1,6 +1,6 @@
 # PAVEL BUDZKO
 
-![Это опциональный alt-текст](https://golos.ua/images/items/2020-08/02/CxJ6myL6cfYB26Mn/img_top.jpg)
+![Это опциональный alt-текст](https://house-animals.ru/sites/default/files/media/user-1/cat-name-2-256.jpg)
 
 ## CONTACTS
 *Email: **pavel.budzko07@gmail.com** Discord: **mauser43***
@@ -28,7 +28,7 @@ and [my GitHub](https://github.com/pavelbudzko)
 ### EDUCATION 
 * MANAGEMENT TECHNICIAN (EQF LEVEL 4)
 Santa Maria Maior High School, Viana do Castelo) | 2010 - 2013
-*TECHNICAL SPECIALIST IN COMPUTER APPLICATIONS FOR MANAGEMENT (EQF LEVEL 5)
+* TECHNICAL SPECIALIST IN COMPUTER APPLICATIONS FOR MANAGEMENT (EQF LEVEL 5)
 Polytechnic Institute of Viana do Castelo, Viana do Castelo | 2013 - 2014
 * COMPUTER ENGINEERING (EQF LEVEL 6)
 Polytechnic Institute of Viana do Castelo, Viana do Castelo | 2014 - 2021
