@@ -1,6 +1,6 @@
 **PAVEL BUDZKO**
 
-####Contacts<h1>
+<h1>Contacts<h1>
 *Email: **pavel.budzko07@gmail.com** Discord: **mauser43***
 
 <h1>About<h1>
